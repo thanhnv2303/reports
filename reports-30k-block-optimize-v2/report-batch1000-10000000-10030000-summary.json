@@ -1,0 +1,12 @@
+{
+    "report_export_token": 0.0940093994140625,
+    "report_get_wallets": 23.58820366859436,
+    "report_export_wallet": 36.6457576751709,
+    "report_export_lending_pool": 0.27277231216430664,
+    "report_export_transfer": 43.76880741119385,
+    "report_export_deposit": 0.4339148998260498,
+    "report_export_withdraw": 0.1343858242034912,
+    "report_export_borrow": 0.1797628402709961,
+    "report_export_repay": 0.14761042594909668,
+    "report_export_liquidate": 0.06565690040588379
+}

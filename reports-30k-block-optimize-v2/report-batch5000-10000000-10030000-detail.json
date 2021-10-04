@@ -1,0 +1,86 @@
+{
+    "10000000_10004999": {
+        "report_export_token": 0.00289154052734375,
+        "report_get_wallets": 3.6998560428619385,
+        "report_export_wallet": 5.674312353134155,
+        "report_export_lending_pool": 0.06474733352661133,
+        "report_export_transfer": 8.223151683807373,
+        "report_export_deposit": 0.01885843276977539,
+        "report_export_withdraw": 0.008024930953979492,
+        "report_export_borrow": 0.01344442367553711,
+        "report_export_repay": 0.00809931755065918,
+        "report_export_liquidate": 0.0023813247680664062
+    },
+    "10005000_10009999": {
+        "report_export_token": 0.00330352783203125,
+        "report_get_wallets": 3.470257520675659,
+        "report_export_wallet": 4.603709697723389,
+        "report_export_lending_pool": 0.05735588073730469,
+        "report_export_transfer": 6.11197304725647,
+        "report_export_deposit": 0.022708415985107422,
+        "report_export_withdraw": 0.007930278778076172,
+        "report_export_borrow": 0.014996528625488281,
+        "report_export_repay": 0.010389328002929688,
+        "report_export_liquidate": 0.002135038375854492
+    },
+    "10010000_10014999": {
+        "report_export_token": 0.0030264854431152344,
+        "report_get_wallets": 2.973682403564453,
+        "report_export_wallet": 4.911987781524658,
+        "report_export_lending_pool": 0.06827116012573242,
+        "report_export_transfer": 7.191344738006592,
+        "report_export_deposit": 0.024340391159057617,
+        "report_export_withdraw": 0.008130788803100586,
+        "report_export_borrow": 0.01422262191772461,
+        "report_export_repay": 0.010082244873046875,
+        "report_export_liquidate": 0.0021812915802001953
+    },
+    "10015000_10019999": {
+        "report_export_token": 0.0027627944946289062,
+        "report_get_wallets": 3.451315402984619,
+        "report_export_wallet": 5.818426847457886,
+        "report_export_lending_pool": 0.060346364974975586,
+        "report_export_transfer": 8.288043975830078,
+        "report_export_deposit": 0.024161577224731445,
+        "report_export_withdraw": 0.009211063385009766,
+        "report_export_borrow": 0.01693868637084961,
+        "report_export_repay": 0.011486530303955078,
+        "report_export_liquidate": 0.0025637149810791016
+    },
+    "10020000_10024999": {
+        "report_export_token": 0.0029249191284179688,
+        "report_get_wallets": 4.644944667816162,
+        "report_export_wallet": 6.247210502624512,
+        "report_export_lending_pool": 0.0722043514251709,
+        "report_export_transfer": 9.415830373764038,
+        "report_export_deposit": 0.04675912857055664,
+        "report_export_withdraw": 0.008986711502075195,
+        "report_export_borrow": 0.016872406005859375,
+        "report_export_repay": 0.009740591049194336,
+        "report_export_liquidate": 0.00201416015625
+    },
+    "10025000_10029999": {
+        "report_export_token": 0.002888917922973633,
+        "report_get_wallets": 4.145400524139404,
+        "report_export_wallet": 5.593913555145264,
+        "report_export_lending_pool": 0.03892660140991211,
+        "report_export_transfer": 7.682917833328247,
+        "report_export_deposit": 0.019158363342285156,
+        "report_export_withdraw": 0.006975412368774414,
+        "report_export_borrow": 0.010840654373168945,
+        "report_export_repay": 0.00784444808959961,
+        "report_export_liquidate": 0.002126455307006836
+    },
+    "10030000_10030000": {
+        "report_export_token": 0.0028696060180664062,
+        "report_get_wallets": 0.004344463348388672,
+        "report_export_wallet": 0.0049991607666015625,
+        "report_export_lending_pool": 0.0018758773803710938,
+        "report_export_transfer": 0.004928112030029297,
+        "report_export_deposit": 0.0019457340240478516,
+        "report_export_withdraw": 0.0018434524536132812,
+        "report_export_borrow": 0.0018455982208251953,
+        "report_export_repay": 0.0017962455749511719,
+        "report_export_liquidate": 0.002064228057861328
+    }
+}
