@@ -1,0 +1,93 @@
+{
+    "10000000_10004999": {
+        "report_export_token": 0.0028924942016601562,
+        "report_get_wallets": 3.7794814109802246,
+        "report_export_wallet": 7.120888948440552,
+        "report_export_lending_pool": 0.0680086612701416,
+        "report_export_transfer": 8.133363962173462,
+        "report_export_deposit": 0.017545223236083984,
+        "report_export_withdraw": 0.007169246673583984,
+        "report_export_borrow": 0.011325597763061523,
+        "report_export_repay": 0.006789684295654297,
+        "report_export_liquidate": 0.0019614696502685547,
+        "report_aggregate_data": 27.197934865951538
+    },
+    "10005000_10009999": {
+        "report_export_token": 0.0029668807983398438,
+        "report_get_wallets": 3.3693811893463135,
+        "report_export_wallet": 4.39055609703064,
+        "report_export_lending_pool": 0.5421180725097656,
+        "report_export_transfer": 6.266193628311157,
+        "report_export_deposit": 0.022580385208129883,
+        "report_export_withdraw": 0.007078647613525391,
+        "report_export_borrow": 0.01343846321105957,
+        "report_export_repay": 0.009113788604736328,
+        "report_export_liquidate": 0.0020346641540527344,
+        "report_aggregate_data": 21.464341163635254
+    },
+    "10010000_10014999": {
+        "report_export_token": 0.002756834030151367,
+        "report_get_wallets": 2.9710187911987305,
+        "report_export_wallet": 4.9719603061676025,
+        "report_export_lending_pool": 0.06175494194030762,
+        "report_export_transfer": 6.7561256885528564,
+        "report_export_deposit": 0.05707144737243652,
+        "report_export_withdraw": 0.008150815963745117,
+        "report_export_borrow": 0.011180400848388672,
+        "report_export_repay": 0.009514570236206055,
+        "report_export_liquidate": 0.0021092891693115234,
+        "report_aggregate_data": 22.229279041290283
+    },
+    "10015000_10019999": {
+        "report_export_token": 0.002946138381958008,
+        "report_get_wallets": 3.4173800945281982,
+        "report_export_wallet": 5.763557434082031,
+        "report_export_lending_pool": 0.06274986267089844,
+        "report_export_transfer": 8.13594365119934,
+        "report_export_deposit": 0.022460222244262695,
+        "report_export_withdraw": 0.008282184600830078,
+        "report_export_borrow": 0.015631675720214844,
+        "report_export_repay": 0.010556221008300781,
+        "report_export_liquidate": 0.0021305084228515625,
+        "report_aggregate_data": 27.396288633346558
+    },
+    "10020000_10024999": {
+        "report_export_token": 0.002835988998413086,
+        "report_get_wallets": 3.701993703842163,
+        "report_export_wallet": 6.554503917694092,
+        "report_export_lending_pool": 0.09070849418640137,
+        "report_export_transfer": 9.322265386581421,
+        "report_export_deposit": 0.05312657356262207,
+        "report_export_withdraw": 0.008748054504394531,
+        "report_export_borrow": 0.022263050079345703,
+        "report_export_repay": 0.011121749877929688,
+        "report_export_liquidate": 0.0026810169219970703,
+        "report_aggregate_data": 28.436644315719604
+    },
+    "10025000_10029999": {
+        "report_export_token": 0.0030498504638671875,
+        "report_get_wallets": 4.175549507141113,
+        "report_export_wallet": 5.739400863647461,
+        "report_export_lending_pool": 0.04427647590637207,
+        "report_export_transfer": 7.859645128250122,
+        "report_export_deposit": 0.02150726318359375,
+        "report_export_withdraw": 0.00726771354675293,
+        "report_export_borrow": 0.011207818984985352,
+        "report_export_repay": 0.009046316146850586,
+        "report_export_liquidate": 0.0023882389068603516,
+        "report_aggregate_data": 25.617337226867676
+    },
+    "10030000_10030000": {
+        "report_export_token": 0.0027022361755371094,
+        "report_get_wallets": 0.0044536590576171875,
+        "report_export_wallet": 0.005664348602294922,
+        "report_export_lending_pool": 0.002073526382446289,
+        "report_export_transfer": 0.005262851715087891,
+        "report_export_deposit": 0.0019986629486083984,
+        "report_export_withdraw": 0.0020303726196289062,
+        "report_export_borrow": 0.002171039581298828,
+        "report_export_repay": 0.0018129348754882812,
+        "report_export_liquidate": 0.0018107891082763672,
+        "report_aggregate_data": 0.2556285858154297
+    }
+}
