@@ -1,0 +1,86 @@
+{
+    "10000000_10004999": {
+        "report_export_token": 0.002953767776489258,
+        "report_get_wallets": 3.0151147842407227,
+        "report_export_wallet": 5.627032995223999,
+        "report_export_lending_pool": 0.039069175720214844,
+        "report_export_transfer": 7.174776315689087,
+        "report_export_deposit": 0.016776561737060547,
+        "report_export_withdraw": 0.0070798397064208984,
+        "report_export_borrow": 0.010320186614990234,
+        "report_export_repay": 0.006570100784301758,
+        "report_export_liquidate": 0.0020301342010498047
+    },
+    "10005000_10009999": {
+        "report_export_token": 0.0031385421752929688,
+        "report_get_wallets": 2.6229403018951416,
+        "report_export_wallet": 4.474507808685303,
+        "report_export_lending_pool": 0.06210732460021973,
+        "report_export_transfer": 6.271937608718872,
+        "report_export_deposit": 0.021831274032592773,
+        "report_export_withdraw": 0.007554769515991211,
+        "report_export_borrow": 0.012880563735961914,
+        "report_export_repay": 0.00911092758178711,
+        "report_export_liquidate": 0.002128124237060547
+    },
+    "10010000_10014999": {
+        "report_export_token": 0.0031282901763916016,
+        "report_get_wallets": 3.3755409717559814,
+        "report_export_wallet": 4.724684476852417,
+        "report_export_lending_pool": 0.06915163993835449,
+        "report_export_transfer": 6.462543964385986,
+        "report_export_deposit": 0.021419286727905273,
+        "report_export_withdraw": 0.008153915405273438,
+        "report_export_borrow": 0.013000965118408203,
+        "report_export_repay": 0.009470462799072266,
+        "report_export_liquidate": 0.002288818359375
+    },
+    "10015000_10019999": {
+        "report_export_token": 0.00290679931640625,
+        "report_get_wallets": 4.012267112731934,
+        "report_export_wallet": 5.71574592590332,
+        "report_export_lending_pool": 0.06869006156921387,
+        "report_export_transfer": 8.418136358261108,
+        "report_export_deposit": 0.020998001098632812,
+        "report_export_withdraw": 0.008155345916748047,
+        "report_export_borrow": 0.014202594757080078,
+        "report_export_repay": 0.00970005989074707,
+        "report_export_liquidate": 0.001973390579223633
+    },
+    "10020000_10024999": {
+        "report_export_token": 0.0028858184814453125,
+        "report_get_wallets": 3.626129388809204,
+        "report_export_wallet": 6.080777168273926,
+        "report_export_lending_pool": 0.06291437149047852,
+        "report_export_transfer": 9.328247308731079,
+        "report_export_deposit": 0.024871349334716797,
+        "report_export_withdraw": 0.007898092269897461,
+        "report_export_borrow": 0.015303850173950195,
+        "report_export_repay": 0.009321451187133789,
+        "report_export_liquidate": 0.0021398067474365234
+    },
+    "10025000_10029999": {
+        "report_export_token": 0.003034353256225586,
+        "report_get_wallets": 3.178210496902466,
+        "report_export_wallet": 5.742171287536621,
+        "report_export_lending_pool": 0.01316976547241211,
+        "report_export_transfer": 7.638901472091675,
+        "report_export_deposit": 0.018909692764282227,
+        "report_export_withdraw": 0.008781671524047852,
+        "report_export_borrow": 0.011148929595947266,
+        "report_export_repay": 0.008025407791137695,
+        "report_export_liquidate": 0.0020956993103027344
+    },
+    "10030000_10030000": {
+        "report_export_token": 0.0025093555450439453,
+        "report_get_wallets": 0.004497051239013672,
+        "report_export_wallet": 0.005654335021972656,
+        "report_export_lending_pool": 0.0019598007202148438,
+        "report_export_transfer": 0.005578756332397461,
+        "report_export_deposit": 0.0018401145935058594,
+        "report_export_withdraw": 0.0018796920776367188,
+        "report_export_borrow": 0.0018572807312011719,
+        "report_export_repay": 0.001917123794555664,
+        "report_export_liquidate": 0.0018203258514404297
+    }
+}
